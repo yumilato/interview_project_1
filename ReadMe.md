@@ -11,5 +11,6 @@ The script checks the received file for errors and, if found, shows the lines wh
 
 **Object:**
 output_objects
+
 **Metadata:**
 output_entities
